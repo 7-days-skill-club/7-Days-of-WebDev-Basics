@@ -51,4 +51,6 @@ Total duration : 60 + 20 + 20 = 1hr 40 min
 - JS map, filter and reduce : https://www.youtube.com/watch?v=zdp0zrpKzIE 
 - Solve any 2 questions from level 1 and 1 question from level 2 at https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/09_Day_Higher_order_functions/09_day_higher_order_functions.md
 
- 
+### Conclusion
+
+Build any front end project using HTML, CSS and JS - be it portfolio page, ecommerce website, Amazon clone, Netflix clone, food delivery website etc. There are plenty of guided tutorials on Youtube, but if you follow them make sure to add one small feature by yourself at the end.
