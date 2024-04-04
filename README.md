@@ -51,11 +51,4 @@ Total duration : 60 + 20 + 20 = 1hr 40 min
 - JS map, filter and reduce : https://www.youtube.com/watch?v=zdp0zrpKzIE 
 - Solve any 2 questions from level 1 and 1 question from level 2 at https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/09_Day_Higher_order_functions/09_day_higher_order_functions.md
 
-### Conclusion
-Build a portfolio website by yourself or follow this guided tutorial at https://www.youtube.com/watch?v=oFnIe-RpkE4
-
-
-
-
-Solutions : https://github.com/3KINGZ/30-Days-of-JavaScript-Solutions/tree/master
-  
+ 
